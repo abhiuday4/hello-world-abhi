@@ -1,0 +1,16 @@
+estimate: 20 lines
+check ingredients: bread, peanut butter, jelly, plate, spoons
+open bread bag
+take out two slices of bread
+put the bread on the plate
+open peanut butter jar
+scoop out peanut butter with a spoon
+spread peanut butter on one entire side of bread
+put bread back on table, peanut butter side up
+close peanut putter jar
+open jelly jar
+grab clean spoon
+scoop out jelly with a spoon
+spread jelly on entire side of the other piece of bread
+place the jelly side of bread face down on the bread on plate
+close jelly jar
